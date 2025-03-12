@@ -18,5 +18,5 @@ My Time at the Information Lab involved:
 
 
 ## Links
-Tableau Public: https://public.tableau.com/app/profile/reshika.chilakapati/vizzes
-LinkedIn: https://www.linkedin.com/in/reshika-chilakapati/
+- Tableau Public: https://public.tableau.com/app/profile/reshika.chilakapati/vizzes
+- LinkedIn: https://www.linkedin.com/in/reshika-chilakapati/
